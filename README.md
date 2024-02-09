@@ -4,6 +4,6 @@
 - HTML, CSS y JS.
 - Realizado en el marco de <em> Argentina Programa </em> en la academia TicMas.
 - ```Se puede ver acá```:
-https://willyburritos.github.io/Juego-del-numero-secreto/
+https://willyburritos.github.io/CV-en-TicMas/
 
 
